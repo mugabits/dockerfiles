@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "azure-functions-core-tools": "^2.7.1480"
+    "azure-functions-core-tools": "^4.1.0"
   }
 }
